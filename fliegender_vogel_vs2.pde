@@ -3,7 +3,7 @@
 //content: flying bird; bird sort of flys over the screen by moving the cursor + getting closer by growing. 
 //date of creation: October 2017
 //license: GNU General Public License v3.0 and later
-//creator: lmWinifred
+//creator: lmWinifred & Felix Tesche
 
 ///////////////////////////////////////////////////////
 
